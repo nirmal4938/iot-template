@@ -1,0 +1,19 @@
+
+
+:root {
+  --qpaix-background-color: #30bcc8; /* Define the background color variable */
+}
+.Auth-Layout-Container {
+  background-color: #d9dce1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.Main-Layout-Container{
+
+}
+
